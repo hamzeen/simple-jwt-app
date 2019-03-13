@@ -4,9 +4,6 @@
 
 A sample JWT web app that can be use to demonstrate how JWT tokens work
 
-## Idea
-
-This is a simple application where you can login as a user with normal privileges (so normal that you can't do anything!) and by hacking the session id (which is a simple JWT) you should try to escalate your privileges to being an admin.
 
 ## How to run it
 
