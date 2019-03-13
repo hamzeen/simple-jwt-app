@@ -2,7 +2,7 @@
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-A sample JWT web app that can be use to demonstrate how JWT tokens work. You can break down the JWT Token at [JWT.io](https://jwt.io/)'s debugging tool.
+A sample JWT web app that can be use to demonstrate how JWT tokens work. You can break down the JWT Token at [JWT.io](https://jwt.io/)'s debugger tool.
 
 
 ## How to run it
