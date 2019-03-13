@@ -1,5 +1,5 @@
 {
-  "name": "sample-jwt-webapp",
+  "name": "simnple-jwt-app",
   "version": "1.1.0",
   "description": "A sample JWT web app that can be use to demonstrate how to escalate permissions by cracking and forging JWT tokens",
   "main": "src/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lmammino/sample-jwt-webapp.git"
+    "url": "git+https://github.com/hamzeen/simple-jwt-app.git"
   },
   "keywords": [
     "JWT",
@@ -17,12 +17,12 @@
     "sample app",
     "cracking"
   ],
-  "author": "Luciano Mammino",
+  "author": "Hamzeen. H.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lmammino/sample-jwt-webapp/issues"
+    "url": "https://github.com/hamzeen/simple-jwt-app/issues"
   },
-  "homepage": "https://github.com/lmammino/sample-jwt-webapp#readme",
+  "homepage": "https://github.com/hamzeen/simple-jwt-app#readme",
   "dependencies": {
     "fastify": "^1.5.0",
     "fastify-cli": "^0.16.1",
