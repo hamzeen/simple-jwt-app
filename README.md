@@ -2,7 +2,7 @@
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-A sample JWT web app that can be use to demonstrate how to escalate permissions by cracking and forging JWT tokens
+A sample JWT web app that can be use to demonstrate how JWT tokens work
 
 ## Idea
 
