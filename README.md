@@ -10,7 +10,7 @@ A sample JWT web app that can be use to demonstrate how JWT tokens work. You can
   1. Clone this repo
   2. Install dependencies `npm install`
   3. Run the server `npm start`
-  4. See the magic at: [localhost:3000](http://localhost:3000)
+  4. See the magic at: [localhost:8000](http://localhost:8000)
 
 ## Configuration
 
