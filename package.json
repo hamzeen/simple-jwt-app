@@ -4,7 +4,7 @@
   "description": "A sample JWT web app that can be use to demonstrate how to escalate permissions by cracking and forging JWT tokens",
   "main": "src/index.js",
   "scripts": {
-    "start": "fastify start src/server.js --log-level info --pretty-logs",
+    "start": "fastify start src/server.js --port 8000 --log-level info --pretty-logs",
     "test": "eslint src"
   },
   "repository": {
