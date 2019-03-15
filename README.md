@@ -1,8 +1,8 @@
 # Simple JWT Application
 
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![HitCount](http://hits.dwyl.io/hamzeen/simple-jwt-app.svg)](http://hits.dwyl.io/hamzeen/simple-jwt-app)
 
-A sample JWT web app that can be use to demonstrate how JWT tokens work. You can break down the JWT Token at [JWT.io](https://jwt.io/)'s debugger tool. [![HitCount](http://hits.dwyl.io/hamzeen/simple-jwt-app.svg)](http://hits.dwyl.io/hamzeen/simple-jwt-app)
+A sample JWT web app that can be use to demonstrate how JWT tokens work. You can break down the JWT Token at [JWT.io](https://jwt.io/)'s debugger tool. 
 
 
 ## How to run it
